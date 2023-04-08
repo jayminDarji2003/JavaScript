@@ -1,0 +1,1 @@
+console.log("hello world");  // this fnx is used to print in console
